@@ -1,0 +1,6 @@
+{
+  "name": "DANIFLIX",
+  "description": "Netflix-style movie and TV show streaming web app, optimized for Samsung Tizen, Android TV, FireOS, and TV web browsers with full D-pad remote control mapping and custom streaming controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
